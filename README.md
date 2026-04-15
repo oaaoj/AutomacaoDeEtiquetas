@@ -25,6 +25,3 @@ A aplicação realiza um pipeline automatizado de processamento de dados:
 - Padronização da saída de dados
 - Minimização de erros humanos
 - Facilidade de uso para times não técnicos
-
-## Observações
-O projeto está versionado e disponível neste repositório, permitindo evolução contínua conforme novas regras de negócio e necessidades operacionais.
