@@ -7,25 +7,3 @@ escrever o número de linhas que equivale ao números de sapatos que irão ser e
 
 Ela foi desenvolvida para substituir o trabalho manual de cadastro de itens que não possuem EAN (European Article Number), o que reduziu
 um trabalho de algumas horas em segundos.
-
-## Como configurar
-
-1. Defina a variavel de ambiente `AUTOMACAO_ETIQUETAS_BASE_DIR` com a pasta base da automacao.
-2. Garanta que dentro da pasta base existam:
-- `ARQUIVOS_BASE`
-- `ARQUIVOS_ETIQUETA`
-
-Exemplo de caminho base (interno):
-- `\\servidor\pasta\AutomacaoEtiquetas`
-
-## Arquivos principais
-
-- `src/AutomacaoDeEtiquetas(Beta).py` (versao com interface)
-- `src/automacaoetiquetas.py` (versao script)
-
-## Build local (opcional)
-
-```bash
-pyinstaller src/AutomacaoDeEtiquetas(Beta).spec
-```
-
