@@ -1,6 +1,4 @@
-﻿# Publicacao GitHub - Automacao de Etiquetas
-
-## Como configurar
+# Como configurar
 
 1. Defina a variavel de ambiente `AUTOMACAO_ETIQUETAS_BASE_DIR` com a pasta base da automacao.
 2. Garanta que dentro da pasta base existam:
